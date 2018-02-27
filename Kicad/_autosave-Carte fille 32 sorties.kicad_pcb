@@ -2262,6 +2262,11 @@
       (net 75 +12V))
     (pad 2 smd rect (at 2.09 0) (size 2.03 2.65) (layers B.Cu B.Paste B.Mask)
       (net 108 "Net-(F1-Pad2)"))
+    (model Fuse_Holders_and_Fuses.3dshapes/BladeFuse-Mini.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module Housings_DIP:DIP-18_W7.62mm (layer F.Cu) (tedit 5A8C01E9) (tstamp 5A3D5993)

@@ -21,8 +21,8 @@
   (fp_line (start -1.5 -1.75) (end -1.5 4.3) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at 0 2.54) (size 2.032 2.032) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model Pin_Headers.3dshapes/Pin_Header_Angled_1x02.wrl
-    (at (xyz 0 -0.05 0))
+  (model Connectors_JST.3dshapes/JST_EH_S02B-EH_02x2.50mm_Angled.wrl
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )

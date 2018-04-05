@@ -14,12 +14,12 @@
 
   (page A4)
   (title_block
-    (title "Gradateurs 220V")
+    (title "Carte de puissance 220V pour gradateur Domocan")
     (date 2018-04-03)
     (rev 1)
     (company Koala)
     (comment 3 https://www.abcelectronique.com/bigonoff/)
-    (comment 4 "Carte gradateurs 220V en boitier DIN")
+    (comment 4 "Adaptation de la carte de puissance Domocan pour boitier DIN")
   )
 
   (layers
